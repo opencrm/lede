@@ -103,7 +103,6 @@ jobs:
           CONFIG_TARGET_bcm27xx=y
           CONFIG_TARGET_bcm27xx_bcm2708=y
           CONFIG_TARGET_bcm27xx_bcm2708_DEVICE_rpi=y
-          CONFIG_TARGET_ROOTFS_PARTSIZE=320  
           # CONFIG_GRUB_EFI_IMAGES is not set
           CONFIG_GRUB_TITLE="SpaceX"
           CONFIG_LIBCURL_COOKIES=y
